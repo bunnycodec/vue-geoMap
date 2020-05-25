@@ -1,6 +1,8 @@
 # chat-box
 
-Live at : 1) https://codec-geo-map.web.app/ 2) https://codec-geo-map.firebaseapp.com/
+Live at..
+1) https://codec-geo-map.web.app/ 
+2) https://codec-geo-map.firebaseapp.com/
 
 ## Project setup
 ```
